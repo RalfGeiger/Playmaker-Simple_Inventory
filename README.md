@@ -8,7 +8,7 @@ with Playmaker and Unity.
 
 URL to the video:
 
-Part 1: https://www.youtube.com/watch?v=xjffkO3sIEU
+Part 1: https://www.youtube.com/watch?v=xjffkO3sIEU //
 Part 2: https://www.youtube.com/watch?v=Ktaar_ZZcBo
 Part 3: https://www.youtube.com/watch?v=AMuAdE8lOjw
 
