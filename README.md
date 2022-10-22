@@ -8,9 +8,9 @@ with Playmaker and Unity.
 
 URL to the video:
 
-Part 1: https://www.youtube.com/watch?v=xjffkO3sIEU //
-Part 2: https://www.youtube.com/watch?v=Ktaar_ZZcBo
-Part 3: https://www.youtube.com/watch?v=AMuAdE8lOjw
+* Part 1: https://www.youtube.com/watch?v=xjffkO3sIEU 
+* Part 2: https://www.youtube.com/watch?v=Ktaar_ZZcBo
+* Part 3: https://www.youtube.com/watch?v=AMuAdE8lOjw
 
 This project does not include Playmaker. You must own and install it. 
 It is recommended to install the EcoSystem
